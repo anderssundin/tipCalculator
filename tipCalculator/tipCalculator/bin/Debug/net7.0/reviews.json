@@ -1,0 +1,17 @@
+[
+  {
+    "Where": "Vika cafe",
+    "Review": "Great pizzas!",
+    "Sentiment": "Positive"
+  },
+  {
+    "Where": "Burger King",
+    "Review": "Nasty tasteing food, would not recomend...",
+    "Sentiment": "Negative"
+  },
+  {
+    "Where": "Banken",
+    "Review": "Very good service and great food.",
+    "Sentiment": "Positive"
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\xampp\\htdocs\\DT071G Programmering i Csharp dot net\\Projekt\\Code\\tipCalculator\\tipCalculator\\tipCalculator.csproj": {}
+  },
+  "projects": {
+    "C:\\xampp\\htdocs\\DT071G Programmering i Csharp dot net\\Projekt\\Code\\tipCalculator\\tipCalculator\\tipCalculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\xampp\\htdocs\\DT071G Programmering i Csharp dot net\\Projekt\\Code\\tipCalculator\\tipCalculator\\tipCalculator.csproj",
+        "projectName": "tipCalculator",
+        "projectPath": "C:\\xampp\\htdocs\\DT071G Programmering i Csharp dot net\\Projekt\\Code\\tipCalculator\\tipCalculator\\tipCalculator.csproj",
+        "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
+        "outputPath": "C:\\xampp\\htdocs\\DT071G Programmering i Csharp dot net\\Projekt\\Code\\tipCalculator\\tipCalculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[3.0.0-preview.23266.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
